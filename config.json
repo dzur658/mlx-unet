@@ -1,0 +1,13 @@
+{
+    "T": 1000,
+    "img_ch": 3,
+    "img_size": 64,
+    "down_chs": [
+        64,
+        64,
+        128
+    ],
+    "t_embed_dim": 8,
+    "c_embed_dim": 10,
+    "framework": "mlx"
+}
